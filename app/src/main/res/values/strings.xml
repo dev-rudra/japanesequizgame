@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">JL Word Quiz</string>
+    <string name="dev_title">Application Development By</string>
+    <string name="dev_desc">MAGAR RUDRA KUMAR (M18W7318)</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_text">Quiz %1$d of %2$d</string>
+    <string name="number_of_guesses_title">Word Guesses Option Setting</string>
+    <string name="number_of_guesses_description">Show 2, 4 or 6 Guess Options.</string>
+    <string name="script_types_title">Japanese Script Setting</string>
+    <string name="script_types_description">Script (Hiragana, Katakana or Kanji) can include.</string>
+    <string name="choose_background_color">Theme Setting</string>
+    <string name="choose_color_description">You can choose Dark or Light theme.</string>
+    <string name="default_color_black">Black</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <!--<string name="results_string_value">%1$d number of guesses, and %2$.02f%% correct</string>-->
+    <string name="results_string_value">%2$.02f%% correct</string>
+    <string name="results_string_status">Congratulations!</string>
+    <string name="reset_script_quiz">Restart Quiz Again?</string>
+    <string name="wrong_answer_message">Wrong!!</string>
+    <string name="default_script_type">Kanji_Script</string>
+    <string name="toast_message">One Type of Script must be selected. The Default
+                                    Value is Kanji Script</string>
+    <string name="change_message">New Changes are Applied</string>
+</resources>
